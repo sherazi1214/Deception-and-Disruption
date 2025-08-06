@@ -2,10 +2,10 @@
 
 ## 1. Deception in Cybersecurity (دھوکہ دینا / چالاکی سے گمراہ کرنا)
 #### Definition:
-English:
+**English:**
 Deception is a security technique where fake systems, data, or services are deployed to trick attackers, detect them early, and study their behavior.
 
-Urdu:
+**Urdu:**
 Deception ka matlab hai attacker ko dhoka dena – aise fake systems ya traps use karna jo attacker ko asli system samajh aayein, lekin asal mein wo sirf attacker ko pakarnay ka zariya hotay hain.
 
 ####  Goals of Deception:
@@ -47,10 +47,10 @@ Intelligence collect ki ja sakti hai
 
 ## 2. Disruption in Cybersecurity (خلل ڈالنا / نظام کو روکنا)
 ### Definition:
-English:
+**English:**
 Disruption refers to the act of interrupting or halting the functionality of a system, service, or network—either by an attacker or a defensive response.
 
-Urdu:
+**Urdu:**
 Disruption ka matlab hai kisi system, network, ya service mein kaam mein rukawat dalna ya use band kar dena, taake ya to attacker ka access roka ja sake ya unka attack fail ho jaye.
 
 ### Goals of Disruption:
@@ -91,7 +91,11 @@ Isolate infected systems	Network se cut karna taake virus na phaylay.
 
 ### Difference Between Deception and Disruption
 Aspect----------------	Deception ------------------------	Disruption
+
 Purpose ----------------	Mislead attacker ---------------	Interrupt attacker or system
+
 Nature ----------------	Passive/Intelligent	----------------Active/Forceful
+
 Used by -----------------	Security teams (to trap) --------	Both attackers and defenders
+
 Urdu	دھوکہ دینا	نظام میں خلل ڈالنا
